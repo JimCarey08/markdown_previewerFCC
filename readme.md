@@ -9,6 +9,13 @@ The link of both:
 [Marked](https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.0/marked.min.js)
 [Babel](https://unpkg.com/@babel/standalone/babel.min.js)  
 
+## The Design:  
+
+![printscreen](img/printscreen.png)  
+  
+![GIF](img/gif.gif)
+
+
 
 
 
